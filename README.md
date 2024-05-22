@@ -1,6 +1,8 @@
 # Online Bachelor Equivalent in Applied Artificial Intelligence Subjects
 ***In this online study programme, you’ll explore the principles of mathematics and statistics that are crucial for developing AI. Computer science is the foundation of AI, so you’ll also be diving into topics like machine learning, deep and reinforcement learning.***
 
+![image](https://github.com/mejbass/OpenSource-Applied-Artificial-Intelligence-Subjects/assets/130122304/37bfcab2-a227-4251-bdc7-0387fff57e61)
+
 **From there, you’ll go on to focus on speech and image processing, cloud computing and software development. This gives you well-rounded knowledge to serve you in any future technical development position.**
 
 ***For the final part of your studies in applied artificial intelligence, before you begin your thesis, you decide what topic you want to focus on – choose from a wide variety of topics related to automation, production and management. Use this stage to really double down on the skills you want to develop according to to the career you want to have.***
