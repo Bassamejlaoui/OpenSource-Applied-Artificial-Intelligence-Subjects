@@ -88,9 +88,7 @@ In your 5th semester, you'll need to choose an elective module. Here are some op
 | Data Engineer                                 | [Data Engineering on Google Cloud Platform Specialization (Coursera)](https://www.coursera.org/specializations/gcp-data-engineering) | 25 weeks | 4-5 hours/week |
 | Digital Signal Processing and Sensor Technology| [Digital Signal Processing by École Polytechnique Fédérale de Lausanne (Coursera)](https://www.coursera.org/learn/dsp) | 14 weeks | 2-3 hours/week |
 | Database Developer                            | [Databases and SQL for Data Science by IBM (Coursera)](https://www.coursera.org/learn/sql-data-science) | 7 weeks | 4-5 hours/week |
-| Business Intelligence                         | [Business Intelligence and Data Warehousing by University of Colorado (Coursera)](https://www.coursera.org/learn/business-intelligence-data-
-
-warehousing) | 6 weeks | 4-5 hours/week |
+| Business Intelligence                         | [Business Intelligence and Data Warehousing by University of Colorado (Coursera)](https://www.coursera.org/learn/business-intelligence-data-warehousing) | 6 weeks | 4-5 hours/week |
 | Data Analyst                                  | [Google Data Analytics Professional Certificate (Coursera)](https://www.coursera.org/professional-certificates/google-data-analytics) | 24 weeks | 4-5 hours/week |
 | Augmented, Mixed and Virtual Reality          | [Virtual Reality Specialization by University of London (Coursera)](https://www.coursera.org/specializations/virtual-reality) | 16 weeks | 4-5 hours/week |
 
