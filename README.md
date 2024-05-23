@@ -1,4 +1,5 @@
-# Online Bachelor Equivalent in Applied Artificial Intelligence Subjects
+# Online Bachelor Equivalent in Applied Artificial Intelligence Subjects  [![The CyberPolyglot](https://img.shields.io/badge/The%20CyberPolyglot-red?logoColor=FFD700)](#github-repositories)
+
 ***In this online study programme, you’ll explore the principles of mathematics and statistics that are crucial for developing AI. Computer science is the foundation of AI, so you’ll also be diving into topics like machine learning, deep and reinforcement learning.***
 
 ![image](https://github.com/mejbass/OpenSource-Applied-Artificial-Intelligence-Subjects/assets/130122304/37bfcab2-a227-4251-bdc7-0387fff57e61)
